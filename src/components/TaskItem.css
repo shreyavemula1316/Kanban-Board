@@ -1,0 +1,136 @@
+/* .task-item {
+    min-height: 100px;
+    box-shadow: 0px 3px 5px rgb(108, 108, 108);
+    background-color: white;
+    padding: 15px;
+    margin: 15px 0px;
+    width: 300px;
+  }
+  
+  .task-text {
+    align-items: center;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+  }
+  
+  .task-text h3 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .task-text p {
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  
+  .delete-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .task-text-bottom-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.task-description {
+    flex: 1;
+    margin-right: 10px;
+  }
+   */
+
+   /* .task-item {
+    min-height: 100px;
+    box-shadow: 0px 3px 5px rgb(108, 108, 108);
+    background-color: white;
+    padding: 15px;
+    margin: 15px 0px;
+    width: 300px;
+  }
+  
+  .task-text {
+    align-items: center;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+  }
+  
+  .task-text h3 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .task-text p {
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  
+  .task-text-bottom-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-description {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .delete-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+   */
+
+
+   .task-item {
+    min-height: 100px;
+    box-shadow: 0px 3px 5px rgb(108, 108, 108);
+    background-color: white;
+    padding: 15px;
+    margin: 15px 0px;
+    width: 300px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+  }
+  
+  .task-text {
+    align-items: center;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+  }
+  
+  .task-text h3 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .task-text p {
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  
+  .task-text-bottom-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-description {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .delete-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  

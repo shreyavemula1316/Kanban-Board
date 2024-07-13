@@ -1,0 +1,14 @@
+.taskcard-columns {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  
+  .taskcard-item {
+    flex: 1;
+    min-width: 250px;
+    max-width: 250px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  }
